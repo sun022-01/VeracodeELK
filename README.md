@@ -9,3 +9,8 @@ https://help.veracode.com/r/t_configure_credentials_windows?tocId=Qkz0SDLqDEHDj5
 
 Configure a Veracode API credentials file on MacOs or Linux:
 https://help.veracode.com/r/t_configure_credentials_mac?tocId=blvs025_41S686OrCXMkdQ
+
+Configure a Veracode API credentials as Environments Variables on MacOS and Linux
+https://help.veracode.com/r/t_store_creds_linux_env
+
+
