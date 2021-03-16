@@ -16,7 +16,9 @@ https://help.veracode.com/r/t_store_creds_linux_env
 # Install
 
 git clone https://github.com/sun022-01/VeracodeELK.git
+
 cd VeracodeELK
+
 pip install -r requirements.txt
 
 # Use
